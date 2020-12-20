@@ -1,4 +1,5 @@
-# Helpful Notebooks for ML
+# Helpful Notebooks for Machine Learning
+
 Helpful Notebooks from "Python for Data Science and Machine Learning Bootcamp" of Jose Portilla
 
 1- Notebook on Linear Regression
