@@ -12,3 +12,5 @@ Helpful Notebooks from "Python for Data Science and Machine Learning Bootcamp" o
 
 5- Support Vector Machines with Python
 
+6- K Means Clustering with Python
+
