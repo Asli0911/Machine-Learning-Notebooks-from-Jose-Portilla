@@ -18,3 +18,5 @@ Helpful Notebooks from "Python for Data Science and Machine Learning Bootcamp" o
 
 8-Recommender Systems with Python
 
+9-NLP (Natural Language Processing) with Python
+
